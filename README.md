@@ -72,6 +72,4 @@ Mining cryptocurrencies may have legal and ethical considerations. Ensure compli
 
 For additional help or support, refer to the [xmrig documentation](https://xmrig.com/docs) or [xmrig GitHub repository](https://github.com/xmrig/xmrig).
 
-```
-
 This README provides a basic structure for users to understand the steps to download, install, configure, and run `xmrig` for mining on Linux. Please adapt and expand the content based on your specific use case and any additional details you want to include.
