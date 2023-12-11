@@ -47,7 +47,7 @@ Run the following command to start mining.
 
 ```bash
 ./xmrig
-
+```
 By default, xmrig will use the configuration in the `config.json` file.
 
 ## Additional Options
