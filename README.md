@@ -1,4 +1,3 @@
-```markdown
 # xmrig Mining Guide
 
 This guide provides instructions on how to run the xmrig miner for cryptocurrency mining on Linux.
@@ -48,7 +47,6 @@ Run the following command to start mining.
 
 ```bash
 ./xmrig
-```
 
 By default, xmrig will use the configuration in the `config.json` file.
 
